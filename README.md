@@ -14,7 +14,7 @@ I am a Software Developer with a focus on C# back-end development
 
 ---
 
-## Some of my projects
+## 📝 Some of my projects
 
 <a href="https://github.com/NiksPetersons/scooter-rental">Scooter rental</a> 🛴
 
