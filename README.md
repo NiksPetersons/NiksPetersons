@@ -1,6 +1,6 @@
-### Hello, my name is Nick Peterson
+### Hello, my name is Nick Peterson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Software Developer specializing in C# back-end development.
+I am a Software Developer specializing in C# back-end development 
 
 ---
 
