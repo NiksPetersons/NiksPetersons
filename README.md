@@ -2,7 +2,8 @@
 
 I am a Software Developer with a focus on C# back-end development 
 
-More information: ⬇️
+⬇️ More information
+
 <a href="https://www.linkedin.com/in/niks-petersons/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
 
 ---
