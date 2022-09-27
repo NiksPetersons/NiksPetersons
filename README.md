@@ -24,7 +24,7 @@ An application for managing a scooter rental service, has the ability to calcula
 
 Insurance company application, ability to manage/add insurance policies and calculate the fee.
 
-<a href="https://github.com/NiksPetersons/flight-planner">Flight Planner</a> ✈️
+<a href="https://github.com/NiksPetersons/FlightPlanner">Flight Planner</a> ✈️
 
 An application which can store flights between different airports and allows you to search them.
 
