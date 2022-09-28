@@ -26,7 +26,7 @@ Insurance company application, ability to manage/add insurance policies and calc
 
 <a href="https://github.com/NiksPetersons/FlightPlanner">Flight Planner</a> ✈️
 
-An application which can store flights between different airports and allows you to search them.
+A WEB API application which can store flights between different airports and allows you to search them.
 
 ---
 
