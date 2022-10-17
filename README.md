@@ -15,6 +15,9 @@ I am a Software Developer with a focus on C# back-end development
 ---
 
 ## 📝 Some of my projects
+<a href="https://github.com/NiksPetersons/FlightPlanner">Flight Planner</a> ✈️
+
+A WEB API application with CRUD operations and modular design that manages flights/airports with filtering and search features.
 
 <a href="https://github.com/NiksPetersons/scooter-rental">Scooter rental</a> 🛴
 
@@ -23,10 +26,6 @@ An application for managing a scooter rental service, has the ability to calcula
 <a href="https://github.com/NiksPetersons/If-Risk">Insurance company</a> 💰
 
 Insurance company application, ability to manage/add insurance policies and calculate the fee.
-
-<a href="https://github.com/NiksPetersons/FlightPlanner">Flight Planner</a> ✈️
-
-A WEB API application which can store flights between different airports and allows you to search them.
 
 ---
 
