@@ -19,9 +19,9 @@ I am a Software Developer with a focus on C# back-end development
 
 A WEB API application with CRUD operations and modular design that manages flights/airports with filtering and search features.
 
-<a href="https://github.com/NiksPetersons/scooter-rental">Scooter rental</a> 🛴
+<a href="https://github.com/NiksPetersons/ScooterRental">Scooter rental</a> 🛴
 
-An application for managing a scooter rental service, has the ability to calculate rental fees and yearly/total income reports. Developed using Test Driven Development principles.
+An API application for managing a scooter rental service, has the ability to calculate rental fees and yearly/total income reports. Developed using Test Driven Development principles.
 
 <a href="https://github.com/NiksPetersons/If-Risk">Insurance company</a> 💰
 
