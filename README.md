@@ -1,12 +1,22 @@
-### Hello, my name is Nick Peterson <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello, my name is Niks Pētersons <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I am a Software Developer with a focus on C# back-end development 
+I am a Software Developer with commercial experience and a focus on Ruby on Rails full-stack development
 
 ⬇️ More information
 
 <a href="https://www.linkedin.com/in/niks-petersons/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"></a>
 
 ---
+
+## 📝 Some of my Ruby on Rails projects
+
+<a href="https://github.com/NiksPetersons/electric-bike-rental">Bike rental</a> 🚲
+
+<a href="https://github.com/NiksPetersons/Hotel-data-api">Hotel data API</a> 🏨
+##
+
+<details>
+<summary>Old .NET information</summary>
 
 ## 🧰 Tech Stack
 
@@ -27,7 +37,9 @@ An API application for managing a scooter rental service, has the ability to cal
 
 Insurance company application, ability to manage/add insurance policies and calculate the fee.
 
----
+</details>
+
+
 
 ## &#x1f4c8; My GitHub Stats
 
